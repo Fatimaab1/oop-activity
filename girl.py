@@ -24,5 +24,5 @@ class Girl(Female): # write the name of the class in () - (parent class) to inhe
     # create an object of female class
 girl_object = Girl()
 
-print(girl_object.school())
+print(girl_object._gym())
 print(girl_object.shopping())
